@@ -6,7 +6,7 @@ Das kompakte Gehäuse wurde vollständig im 3D-Druck gefertigt und ist speziell 
 Ob SOTA-Aktivierung, Notfunkübung oder einfach als portable Stromversorgung im Feld – dieser Akku ist ein zuverlässiger Begleiter überall dort, wo keine Netzversorgung zur Verfügung steht.
 Technische Daten:
 
-*Zellchemie: LiFePo4
+* Zellchemie: LiFePo4
 Zellkonfiguration: 4S1P (4 Zellen in Reihe)
 Nennspannung: 12,8V
 Kapazität: 20Ah (256Wh)
