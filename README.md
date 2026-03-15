@@ -21,7 +21,7 @@ Technische Daten:
 * Absicherung: 50A Hauptsicherung, 3x 15A
 * Gehäuse: 3D-gedruckt (PLA/PETG)
 
-** Anregung gerne an dl9uwe(at)darc.de **
+**Anregung gerne an dl9uwe(at)darc.de**
 
 # Lizenz:
 
