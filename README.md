@@ -26,3 +26,30 @@ Technische Daten:
 # Lizenz:
 
 „Dieses Design steht unter CC BY-NC-SA 4.0. Privater Nachbau und Modifikation sind ausdrücklich erlaubt. Eine kommerzielle Nutzung ist ohne ausdrückliche Genehmigung des Autors nicht gestattet."
+
+# 12V / 20Ah LiFePo4 Battery with Integrated BMS – DIY Project for Radio and Emergency Power Applications
+
+This DIY LiFePo4 battery consists of four high-quality cylindrical cells, each rated at 3.2V and 20Ah, which, when connected in series, deliver a nominal voltage of 12.8V.
+
+With a capacity of 20Ah, it provides enough power for hours of operation of amateur radio equipment, emergency radio stations, or other 12V devices—even when away from a power outlet.
+
+An integrated battery management system (BMS) reliably protects the cells against overcharging, deep discharge, and short circuits. It monitors the voltage and temperature of each individual cell, ensuring a long service life and safe operation. The BMS is configurable via Bluetooth and can be conveniently read and adjusted using a smartphone app (iOS and Android).
+
+The compact housing was manufactured entirely via 3D printing and is specifically designed to meet the demands of portable use. Powerpole connectors and banana jacks enable quick and secure connection to standard radios and chargers. An integrated 50A main fuse and three separate 15A fuses for the individual outputs provide additional protection.
+
+Whether for SOTA activations, emergency radio drills, or simply as a portable power source in the field—this battery is a reliable companion wherever mains power is unavailable. Technical Specifications:
+
+* Cell chemistry: LiFePo4
+* Cell configuration: 4S1P (4 cells in series)
+* Nominal voltage: 12.8V
+* Capacity: 20Ah (256Wh)
+* Max. discharge current: 60A (continuous current depending on BMS)
+* BMS: Jikong with Bluetooth connectivity
+* Connections: Powerpole, 4mm banana jacks
+* Fuses: 50A main fuse, 3x 15A
+* Housing: 3D-printed (PLA/PETG)
+* Feedback welcome at dl9uwe(at)darc.de
+
+# License:
+
+“This design is licensed under CC BY-NC-SA 4.0. Personal reproduction and modification are expressly permitted. Commercial use is not permitted without the author’s express permission.”
